@@ -1,0 +1,13 @@
+name: MobLoot
+version: 1.0
+main: de.nextgeninnovators.mobLoot.MobLoot
+api-version: 1.16
+commands:
+  setdrops:
+    description: Set drops for mobs
+  healthbar:
+    description: Toggle health bar display
+  listdrops:
+    description: List all drops for mobs
+  specialevent:
+    description: Manage special events for mob drops

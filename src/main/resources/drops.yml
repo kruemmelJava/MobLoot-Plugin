@@ -1,0 +1,11 @@
+# Example configuration for mob drops
+ZOMBIE:
+  - type: DIAMOND
+    amount: 1
+  - type: GOLD_INGOT
+    amount: 2
+SKELETON:
+  - type: IRON_INGOT
+    amount: 1
+  - type: BONE
+    amount: 3
